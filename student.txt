@@ -1,0 +1,5 @@
+101,Aarav,87,OPEN
+102,Neha,92,OBC
+103,Rohan,74,EWS
+104,Meera,66,SC
+105,Aditya,81,OPEN
